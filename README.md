@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ak-amnic
 - 👀 I’m interested in SRE and dota2
-- 🌱 I’m currently building a cloud platform for growth phase startups
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me : abdulkarim@amnic.com
 
